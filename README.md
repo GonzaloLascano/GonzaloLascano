@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gonza!</h1>
-<h3 align="center">Aspiring Fullstack Web Developer & 3d Artist.</h3>
+<h3 align="center">3d Artist Aspiring Fullstack Web Developer.</h3>
 
 - 🌱 I’m currently learning **The basics of Back-end with the MERN stack and a few extras!**
 
