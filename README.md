@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **The basics of Back-end with the MERN stack and a few extras!**
 
-- 👨‍💻 All of my projects are available at **(W.I.P.) im learning to be able to make a nice beautiful portfolio for you ❤**
+- 👨‍💻 All of my projects are available at **https://gonzalolascano.github.io/Personal_Site/ (W.I.P.)❤**
 
-- 🎨 Want to see my 3d work? [https://admigualanimation.tumblr.com](https://admigualanimation.tumblr.com)
+- 🎨 Want to see my 3d work? **[https://admigualanimation.tumblr.com](https://admigualanimation.tumblr.com)**
 
-- 💬 Ask me about **react, html, css, and blender**
+- 💬 Ask me about **react, html, css, maybe a little bit of node and express and blender**
 
 - 📫 How to reach me **lascano.gonzalo.ivan@gmail.com**
 
