@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gonza!</h1>
 <h3 align="center">3d Artist & aspiring Fullstack Web Developer.</h3>
 
-- 🌱 I’m currently learning **The basics of Back-end with the MERN stack and a few extras!**
+- 🌱 I’m currently learning **THREE JS**
 
 - 👨‍💻 All of my projects are available at **https://gonzalolascano.github.io/Personal_Site/ (W.I.P.)❤**
 
