@@ -3,9 +3,7 @@
 
 - 🌱 I’m currently learning **THREE JS**
 
-- 👨‍💻 All of my projects are available at **https://gonzalolascano.github.io/Personal_Site/ (W.I.P.)❤**
-
-- 🎨 Want to see my 3d work? **[https://admigualanimation.tumblr.com](https://admigualanimation.tumblr.com)**
+- 👨‍💻 **https://gonzalolascano.github.io/Personal_Site/ (W.I.P.)❤**
 
 - 💬 Ask me about **react, html, css, maybe a little bit of node and express and blender**
 
