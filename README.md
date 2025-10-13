@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gonza!</h1>
 <h3 align="center">3d Artist & aspiring Fullstack Web Developer.</h3>
 
-- 🌱 I’m currently learning **THREE JS**
-
 - 👨‍💻 **https://gonzalolascano.github.io/Personal_Site/ (W.I.P.)❤**
-
-- 💬 Ask me about **react, html, css, maybe a little bit of node and express and blender**
 
 - 📫 How to reach me **lascano.gonzalo.ivan@gmail.com**
 
